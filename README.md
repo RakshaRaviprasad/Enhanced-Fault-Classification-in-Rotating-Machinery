@@ -1,4 +1,5 @@
 Enhanced Fault Classification in Rotating Machinery
+
 Approach:
 This project implements fault diagnosis in rotary machines using CNN, RNN, One-Shot, and Few-Shot Learning with sensor data and minimal labeled data. It explores deep learning techniques for detecting and classifying faults efficiently.
 
